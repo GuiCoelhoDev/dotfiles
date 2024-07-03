@@ -8,7 +8,7 @@
 ## Requirements
 
 ```
-sudo yay -S ttf-meslo-nerd picom stow polybar feh rofi maim xclip nvim alacritty 
+sudo yay -S ttf-meslo-nerd picom stow polybar feh rofi maim xclip nvim alacritty tmux
 ```
 
 - All this direectories its supossed to be allocated on `~/.config/`. 
@@ -47,6 +47,7 @@ To install TPM packages, just type `leader+I`
 - **maim**: A utility to take screenshots with various options.
 - **xclip**: A command line interface to the X11 clipboard, useful for copying and pasting.
 - **nvim**: A modernized version of Vim, an advanced text editor for efficient coding and text manipulation.
+- **tmux**: A terminal multiplexer, allowing you to run multiple terminal sessions within a single window or remote session
 
 ---
 
